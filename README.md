@@ -13,8 +13,9 @@ defineBOT is a bot that allows users to quickly look up word definitions, synony
 
 To use the Telegram Dictionary Bot, follow these steps:
 
-1. Start a conversation with the bot by clicking on "Start" or sending a message.
-2. Use the `/define` command followed by the word you want to look up. For example: `/define hello`.
+1. Search for the bot on Telegram: [@defineBOT](https://t.me/hospi_arvind_bot))
+2. Start a conversation with the bot by clicking on "Start" or sending a message.
+3. Use the `/define` command followed by the word you want to look up. For example: `/define hello`.
 
 ## Development
 
